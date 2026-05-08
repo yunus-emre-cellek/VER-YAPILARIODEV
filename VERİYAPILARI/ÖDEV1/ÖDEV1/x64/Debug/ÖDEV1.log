@@ -1,0 +1,7 @@
+﻿  ÖDEV1.cpp
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV1\ÖDEV1\ÖDEV1.cpp(1,6): error C2014: önişlemci komutu ilk boşluk olmayan karakterde başlamalıdır
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\sal.h(2361,1): error C2144: sözdizimi hatası: 'int' öncesinde ';' olmalıdır
+  (compiling source file 'ÖDEV1.cpp')
+  
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV1\ÖDEV1\ÖDEV1.cpp(1,1): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV1\ÖDEV1\ÖDEV1.cpp(56,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir

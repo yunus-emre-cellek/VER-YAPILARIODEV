@@ -1,0 +1,33 @@
+﻿  ÖDEV3CODE3.cpp
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(59,5): error C2664: 'void insert(TrieNode *,char *)' : 2 bağımsız değişkeni 'const char [4]' değerinden 'char *' değerine dönüştürülemez
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(59,18):
+      Dize sabit değerinden dönüştürme işlemi const niteleyicisini kaybeder (bkz. /Zc:strictStrings)
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(24,6):
+      'insert' bildirimine bakın
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(59,5):
+      '(TrieNode *, const char [4])' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(60,5): error C2664: 'void insert(TrieNode *,char *)' : 2 bağımsız değişkeni 'const char [4]' değerinden 'char *' değerine dönüştürülemez
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(60,18):
+      Dize sabit değerinden dönüştürme işlemi const niteleyicisini kaybeder (bkz. /Zc:strictStrings)
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(24,6):
+      'insert' bildirimine bakın
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(60,5):
+      '(TrieNode *, const char [4])' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(61,5): error C2664: 'void insert(TrieNode *,char *)' : 2 bağımsız değişkeni 'const char [5]' değerinden 'char *' değerine dönüştürülemez
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(61,18):
+      Dize sabit değerinden dönüştürme işlemi const niteleyicisini kaybeder (bkz. /Zc:strictStrings)
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(24,6):
+      'insert' bildirimine bakın
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(61,5):
+      '(TrieNode *, const char [5])' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(63,9): error C2664: 'int search(TrieNode *,char *)' : 2 bağımsız değişkeni 'const char [4]' değerinden 'char *' değerine dönüştürülemez
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(63,22):
+      Dize sabit değerinden dönüştürme işlemi const niteleyicisini kaybeder (bkz. /Zc:strictStrings)
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(40,5):
+      'search' bildirimine bakın
+      C:\Users\Yunus Emre\Desktop\VERİYAPILARI\ÖDEV3CODE3\ÖDEV3CODE3\ÖDEV3CODE3.cpp(63,9):
+      '(TrieNode *, const char [4])' bağımsız değişken listesi eşlenmeye çalışılırken
+  
